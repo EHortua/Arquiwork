@@ -1,12 +1,15 @@
-Arquiwork
-HTML5
-CSS3
-Demo imagesindex:
+# Arquiwork
+##### -HTML5
+##### -CSS3
+##### -Demo imagesindex:
 	Unsplash (unsplash.com)
 
-Iconos:
+##### -Iconos:
 	Font Awesome (fontawesome.io)
 
-Otros:
-	jQuery (jquery.com)
+##### -Otros:
+        jQuery (jquery.com)
 	Responsive Tools (github.com/ajlkn/responsive-tools)
+	
+## Deployment: 
+#### http://www.dwsitios.com.ar/arquiwork/index.html
